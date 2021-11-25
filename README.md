@@ -28,12 +28,12 @@ npm run build
 
 ## Output
 
-![Homepage](Output images/Homepage.png "Homepage")
+![Homepage](Homepage.png "Homepage")
 
-![Add items](Output images/add-items.png "Add items")
+![Add items](add-items.png "Add items")
 
-![About page](Output images/about-page.png "About page")
+![About page](about-page.png "About page")
 
-![Final server product image](Output images/final-server-product-image.png "Final server product image")
+![Final server product image](final-server-product-image.png "Final server product image")
 
-![Querying](Output images/querying.png "querying")
+![Querying](querying.png "querying")
